@@ -1,0 +1,22 @@
+GRID VOX - licence notes
+========================
+
+Application code
+  The GRID VOX plug-in source (GridVox/ in the project tree) is provided as-is for
+  use with this build.
+
+Frameworks
+  Built with JUCE 8 (https://juce.com). JUCE is dual-licensed: AGPLv3 or a commercial
+  licence. Redistributing binaries built with JUCE requires complying with one of those
+  licences - check which applies to you before shipping this installer onwards.
+
+Bundled fonts (SIL Open Font Licence 1.1)
+  Michroma            - Vernon Adams
+  Chakra Petch        - Cadson Demak
+  Share Tech Mono     - Carrois Corporate
+  The fonts are embedded inside the plug-in binary; the OFL permits embedding and
+  redistribution. Full licence text: https://scripts.sil.org/OFL
+
+Disclaimer
+  This software is provided "as is", without warranty of any kind. Test it in your own
+  host and project before relying on it in a session.
